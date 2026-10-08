@@ -32,3 +32,19 @@
 ---
 
 ## 1. Descrição do projeto
+
+O Sistema de Gestão Financeira surge como uma solução digital web e mobile projetada para otimizar o controle do fluxo de caixa e o planejamento orçamentário de microempresas e pessoas físicas. Em um cenário onde o controle manual de despesas e receitas frequentemente gera erros e perda de tempo, a aplicação centraliza todas as movimentações financeiras em um painel intuitivo e em tempo real.
+
+O sistema destina-se a empreendedores, autônomos e gestores financeiros que buscam maior transparência e previsibilidade sobre a saúde de seus negócios ou finanças pessoais. Através de ferramentas automatizadas de categorização e relatórios visuais, a plataforma capacita o usuário a identificar gargalos de gastos, evitar inadimplências e tomar decisões estratégicas mais assertivas.
+
+### Objetivos
+- **Objetivo geral:** Desenvolver uma aplicação integrada para o gerenciamento automatizado de finanças, proporcionando controle rigoroso de receitas, despesas e relatórios gerenciais.
+- **Objetivos específicos:**
+  - Permitir o cadastro, autenticação e gerenciamento seguro de perfis de usuários.
+  - Registrar, categorizar e consultar lançamentos de receitas e despesas por data, categoria e conta bancária.
+  - Emitir alertas de vencimento de contas e relatórios consolidados de fluxo de caixa (diário, mensal e anual).
+
+### Público-alvo
+- Empreendedores individuais e gestores de micro e pequenas empresas
+- Profissionais liberais e autônomos
+- Pessoas físicas focadas em organização e planejamento orçamentário pessoal
