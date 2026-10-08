@@ -5,10 +5,10 @@
 [![Licença](https://img.shields.io/badge/licença-[acadêmica]-lightgrey)]()
 
 **Instituição:** CEUB 
-**Curso:** Ciencias da computação 
-**Disciplina:** Desenvolvimento Web
-**Turma / Semestre:**  Turma B, Quarto semestre
-**Professor(a):**  Felippe Pires
+**Curso:** .Ciencias da computação.
+**Disciplina:** .Desenvolvimento Web.
+**Turma / Semestre:**  .Turma B, Quarto semestre.
+**Professor(a):**  .Felippe Pires.
 **Status do projeto:**  
 
 ---
