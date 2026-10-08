@@ -86,3 +86,42 @@ Para solucionar esse problema, o projeto consiste no desenvolvimento de um siste
 | Testes | pytest | [Ex.: 8] |
 | Infraestrutura | GitHub Actions | — |
 | Outras ferramentas | Git e Figma | — |
+---
+
+## 7. Participantes
+
+*Informe nome completo, função no grupo e, se houver, o identificador acadêmico (matrícula).*
+
+| Nome | Matrícula | Função no projeto |
+| --- | --- | --- |
+| Ian Felipe de Oliveira Granato| 22501402 | [Ex.: coordenação / backend / frontend / testes / documentação] |
+| Gabriel Sousa Lima | 22506568 | [Ex.: backend] |
+| Davi Carneiro da Costa | 22505026 | [Ex.: frontend] |
+---
+
+## 11. Uso de inteligência artificial
+
+Este repositório segue a política de uso de IA da disciplina (semáforo pedagógico):
+
+![Política de uso de IA — semáforo](images/semaforo.png)
+
+| Situação | Significado |
+| --- | --- |
+| **Vermelho — uso proibido** | Atividades de autonomia intelectual (ex.: provas presenciais sem consulta). |
+| **Amarelo — uso limitado** | IA pode ser ferramenta auxiliar, desde que haja declaração de uso. |
+| **Verde — uso permitido** | Uso livre ao longo da atividade acadêmica. |
+
+### Declaração de uso
+
+*Preencha de forma honesta. Se não houve uso de IA, declare explicitamente.*
+
+- **Houve uso de IA neste projeto?** Sim
+- **Ferramentas utilizadas:** Gemini
+- **Finalidade:** revisão de texto, geração de esboço de testes, esclarecimento de dúvidas de sintaxe
+- **O que NÃO foi delegado à IA:** nao ha
+---
+
+
+**Professor(a) responsável:** [Nome completo]
+
+---
