@@ -71,3 +71,18 @@ Para solucionar esse problema, o projeto consiste no desenvolvimento de um siste
 - **Segurança:** Armazenamento de senhas utilizando criptografia de hash (`bcrypt`), proteção contra injeção de dados e uso de tokens JWT para autenticação.
 - **Usabilidade:** Interface totalmente responsiva e intuitiva, adaptada para telas de desktop, tablets e dispositivos móveis.
 - **Disponibilidade e Confiabilidade:** Aplicação estruturada para ambiente acadêmico/local, com suporte a containerização (Docker) para fácil replicação e testes.
+---
+
+## 4. Tecnologias utilizadas
+
+*Informe as tecnologias de fato usadas no projeto. Remova as linhas que não se aplicarem.*
+
+| Camada | Tecnologia | Versão |
+| --- | --- | --- |
+| Linguagem | Python | [Ex.: 3.12] |
+| Frontend | HTML e CSS | [Ex.: 18] |
+| Backend | Python e Django | [Ex.: 3.x] |
+| Banco de dados | SQLite | [Ex.: 16] |
+| Testes | pytest | [Ex.: 8] |
+| Infraestrutura | GitHub Actions | — |
+| Outras ferramentas | Git e Figma | — |
