@@ -33,21 +33,21 @@
 
 ## 1. Descrição do projeto
 
-O Sistema de Gestão Financeira surge como uma solução digital web e mobile projetada para otimizar o controle do fluxo de caixa e o planejamento orçamentário de microempresas e pessoas físicas. Em um cenário onde o controle manual de despesas e receitas frequentemente gera erros e perda de tempo, a aplicação centraliza todas as movimentações financeiras em um painel intuitivo e em tempo real.
+Muitos jovens adultos, estudantes universitários e profissionais em início de carreira enfrentam dificuldades significativas no planejamento financeiro a médio e longo prazo. A ausência de uma ferramenta integrada que una o rastreamento diário de despesas a mecânicas inteligentes de projeção de orçamentos dificulta a poupança para projetos futuros — como viagens internacionais e intercâmbios —, resultando em desorganização e perda de poder de compra devido a variações cambiais.
 
-O sistema destina-se a empreendedores, autônomos e gestores financeiros que buscam maior transparência e previsibilidade sobre a saúde de seus negócios ou finanças pessoais. Através de ferramentas automatizadas de categorização e relatórios visuais, a plataforma capacita o usuário a identificar gargalos de gastos, evitar inadimplências e tomar decisões estratégicas mais assertivas.
+Para solucionar esse problema, o projeto consiste no desenvolvimento de um sistema web de gestão de finanças pessoais focado em proporcionar previsibilidade e controle rigoroso. A plataforma introduz regras claras de distribuição de rendimentos (como a alocação de orçamentos em cascata) e automatiza o acompanhamento de contas em diferentes moedas. Com isso, o usuário consegue gerenciar suas finanças de forma sustentável e consolidar valores em contas dolarizadas em tempo real por meio de integração com API de câmbio externa.
 
 ### Objetivos
-- **Objetivo geral:** Desenvolver uma aplicação integrada para o gerenciamento automatizado de finanças, proporcionando controle rigoroso de receitas, despesas e relatórios gerenciais.
+- **Objetivo geral:** Desenvolver uma aplicação web robusta e integrada para o gerenciamento de finanças pessoais, automatizando o planejamento orçamentário e o acompanhamento de metas internacionais.
 - **Objetivos específicos:**
-  - Permitir o cadastro, autenticação e gerenciamento seguro de perfis de usuários.
-  - Registrar, categorizar e consultar lançamentos de receitas e despesas por data, categoria e conta bancária.
-  - Emitir alertas de vencimento de contas e relatórios consolidados de fluxo de caixa (diário, mensal e anual).
+  - Proporcionar um controle rigoroso, categorizado e seguro de receitas e despesas (CRUD completo e busca avançada).
+  - Automatizar o planejamento financeiro por meio de regras de alocação de orçamento em cascata.
+  - Facilitar o acompanhamento de metas financeiras internacionais consumindo uma API externa de cotação de moedas para cálculo do câmbio atualizado.
+  - Disponibilizar um painel interativo (dashboard) e uma API REST própria para exportação de dados consolidados do orçamento.
 
 ### Público-alvo
-- Empreendedores individuais e gestores de micro e pequenas empresas
-- Profissionais liberais e autônomos
-- Pessoas físicas focadas em organização e planejamento orçamentário pessoal
+- Jovens adultos, estudantes universitários e profissionais em início de carreira que necessitam organizar suas finanças pessoais.
+- Pessoas com objetivos claros de poupança a médio e longo prazo, focadas em realizar intercâmbios ou viagens internacionais.
 ---
 ## 2. Funcionalidades
 
