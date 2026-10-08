@@ -4,7 +4,7 @@
 [![Versão](https://img.shields.io/badge/versão-[0.1.0]-blue)]()
 [![Licença](https://img.shields.io/badge/licença-[acadêmica]-lightgrey)]()
 
-
+---
 **Instituição:** .CEUB - Asa Norte.
 **Curso:** .Ciencias da computação.
 **Disciplina:** [Nome da disciplina]  
