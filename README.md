@@ -12,7 +12,7 @@
 **Professor(a):** .Felippe Pires.
 **Status do projeto:** [Protótipo / MVP / Em desenvolvimento / Concluído]
 
-**Instituição:** [Nome da instituição]  
+**Instituição:** [Noe da instituição]  
 **Curso:** [Nome do curso]  
 **Disciplina:** [Nome da disciplina]  
 **Turma / Semestre:** [Ex.: 2026.2]  
