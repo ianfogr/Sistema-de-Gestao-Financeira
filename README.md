@@ -1,6 +1,8 @@
 # Sistema-de-Gestao-Financeira
 
-Status Versão Licença
+[![Status](https://img.shields.io/badge/status-[em_desenvolvimento]-yellow)]()
+[![Versão](https://img.shields.io/badge/versão-[0.1.0]-blue)]()
+[![Licença](https://img.shields.io/badge/licença-[acadêmica]-lightgrey)]()
 
 **Instituição:** CEUB 
 **Curso:** Ciencias da computação 
@@ -9,3 +11,4 @@ Status Versão Licença
 **Professor(a):**  Felippe Pires
 **Status do projeto:**  
 
+---
