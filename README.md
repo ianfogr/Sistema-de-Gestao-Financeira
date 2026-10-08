@@ -48,3 +48,26 @@ O sistema destina-se a empreendedores, autônomos e gestores financeiros que bus
 - Empreendedores individuais e gestores de micro e pequenas empresas
 - Profissionais liberais e autônomos
 - Pessoas físicas focadas em organização e planejamento orçamentário pessoal
+---
+## 2. Funcionalidades
+
+*Lista das funções implementadas e previstas no sistema:*
+
+| Funcionalidade | Descrição | Status |
+| --- | --- | --- |
+| **Autenticação e Acesso** | Login, logout, recuperação de senha e controle de acesso por perfis. | Implementada |
+| **Gestão de Contas** | Cadastro e gerenciamento de contas bancárias, cartões e carteiras digitais. | Implementada |
+| **Lançamentos Financeiros** | Registro, edição e exclusão de receitas, despesas e transferências entre contas. | Implementada |
+| **Categorização e Tags** | Organização de despesas e receitas por categorias personalizadas. | Em andamento |
+| **Painel de Controle (Dashboard)** | Gráficos interativos de fluxo de caixa, saldo atual e projeção mensal. | Em andamento |
+| **Relatórios e Exportação** | Geração e exportação de extratos e balanços financeiros em formatos como PDF e CSV. | Planejada |
+| **Alertas e Notificações** | Avisos de contas a pagar e faturas próximas ao vencimento. | Planejada |
+
+### Requisitos não funcionais
+
+*Restrições de qualidade e especificações técnicas da aplicação:*
+
+- **Desempenho:** Respostas das rotas da API e carregamento do painel em menos de 2 segundos sob condições normais de uso.
+- **Segurança:** Armazenamento de senhas utilizando criptografia de hash (`bcrypt`), proteção contra injeção de dados e uso de tokens JWT para autenticação.
+- **Usabilidade:** Interface totalmente responsiva e intuitiva, adaptada para telas de desktop, tablets e dispositivos móveis.
+- **Disponibilidade e Confiabilidade:** Aplicação estruturada para ambiente acadêmico/local, com suporte a containerização (Docker) para fácil replicação e testes.
