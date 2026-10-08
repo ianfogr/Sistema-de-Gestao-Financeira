@@ -103,7 +103,8 @@ Para solucionar esse problema, o projeto consiste no desenvolvimento de um siste
 
 Este repositório segue a política de uso de IA da disciplina (semáforo pedagógico):
 
-![Política de uso de IA — semáforo](<img width="1594" height="892" alt="semaforo" src="https://github.com/user-attachments/assets/8b30d3b6-6909-4482-8b5c-f27a081d23bd" />)
+![Política de uso de IA — semáforo]
+<img width="1594" height="892" alt="semaforo" src="https://github.com/user-attachments/assets/8b30d3b6-6909-4482-8b5c-f27a081d23bd" />
 
 | Situação | Significado |
 | --- | --- |
