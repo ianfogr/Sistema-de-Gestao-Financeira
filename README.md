@@ -5,16 +5,9 @@
 [![Licença](https://img.shields.io/badge/licença-[acadêmica]-lightgrey)]()
 
 ---
-**Instituição:** CEUB - Asa Norte
-**Curso:** Ciencias da computação
-**Disciplina:** Nome da disciplina
-**Turma / Semestre:** Turma B, Quarto semestre
-**Professor(a):** Felippe Pires
-**Status do projeto:** Protótipo / MVP / Em desenvolvimento / Concluído
-
-**Instituição:** [Noe da instituição]  
-**Curso:** [Nome do curso]  
-**Disciplina:** [Nome da disciplina]  
-**Turma / Semestre:** [Ex.: 2026.2]  
-**Professor(a):** [Nome completo]  
-**Status do projeto:** [Protótipo / MVP / Em desenvolvimento / Concluído]
+* **Instituição:** CEUB - Asa Norte
+* **Curso:** Ciência da Computação
+* **Disciplina:** Nome da disciplina
+* **Turma / Semestre:** Turma B, 4º Semestre
+* **Professor(a):** Felippe Pires
+* **Status do projeto:** Protótipo / MVP / Em desenvolvimento / Concluído
