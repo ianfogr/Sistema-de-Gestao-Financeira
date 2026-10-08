@@ -117,7 +117,7 @@ Este repositório segue a política de uso de IA da disciplina (semáforo pedag�
 *Preencha de forma honesta. Se não houve uso de IA, declare explicitamente.*
 
 - **Houve uso de IA neste projeto?** Sim
-- **Ferramentas utilizadas:** Gemini
+- **Ferramentas utilizadas:** Gemini e Copilot
 - **Finalidade:** revisão de texto, geração de esboço de testes, esclarecimento de dúvidas de sintaxe
 - **O que NÃO foi delegado à IA:** nao ha
 ---
