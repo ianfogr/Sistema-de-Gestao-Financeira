@@ -122,9 +122,9 @@ Para solucionar esse problema, o projeto consiste no desenvolvimento de um siste
 
 | Nome | Matrícula | Função no projeto |
 | --- | --- | --- |
-| Ian Felipe de Oliveira Granato| 22501402 | [Ex.: coordenação / backend / frontend / testes / documentação] |
-| Gabriel Sousa Lima | 22506568 | [Ex.: backend] |
-| Davi Carneiro da Costa | 22505026 | [Ex.: frontend] |
+| Ian Felipe de Oliveira Granato| 22501402 | [coordenação / backend / frontend / testes / documentação] |
+| Gabriel Sousa Lima | 22506568 | [backend / frontend ; documentação] |
+| Davi Carneiro da Costa | 22505026 | [frontend] |
 ---
 
 ## 11. Uso de inteligência artificial
