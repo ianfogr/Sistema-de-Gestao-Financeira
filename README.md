@@ -98,13 +98,10 @@ Para solucionar esse problema, o projeto consiste no desenvolvimento de um siste
 │   ├── api/
 │   │    └── Contrato_inicial_da_api.pdf
 │   └── modelagem/
-│       ├── casos-de-uso/
-│       │   └── especificacoes-casos-de-uso.pdf
-│       ├── classes/
-│       │   └── diagrama-de-classes.pdf
-│       └── banco-de-dados/
-│           ├── diagrama-er.pdf
-│           └── modelo-logico.pdf
+│       ├── Arquitetura e Diagramas UML - Sistema de Gestão Financeira.pdf
+│       │   
+│       └──  Modelo de Dados e Diagrama ER - Sistema de Gestao Financeira.pdf
+
 ```
 
 | Diretório / arquivo | Função |
