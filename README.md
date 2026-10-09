@@ -87,6 +87,34 @@ Para solucionar esse problema, o projeto consiste no desenvolvimento de um siste
 | Infraestrutura | GitHub Actions | — |
 | Outras ferramentas | Git e Figma | — |
 ---
+## 6. Organização dos diretórios
+
+```text
+.
+├── README.md                 # Documentação principal do projeto
+│ 
+├── docs/                     # Modelagem e demais artefatos técnicos (PDF)
+│   ├── README.pdf            # Índice da pasta docs/
+│   ├── api/
+│   │    └── Contrato_inicial_da_api.pdf
+│   └── modelagem/
+│       ├── casos-de-uso/
+│       │   └── especificacoes-casos-de-uso.pdf
+│       ├── classes/
+│       │   └── diagrama-de-classes.pdf
+│       └── banco-de-dados/
+│           ├── diagrama-er.pdf
+│           └── modelo-logico.pdf
+```
+
+| Diretório / arquivo | Função |
+| --- | --- |
+| `README.md` | Apresentação do projeto, objetivos, tecnologias e instruções de uso |
+| `docs/` | Artefatos de análise e modelagem em PDF |
+| `docs/modelagem/` | Casos de uso, classes e modelo de dados (diagramas embutidos nos PDFs) |
+| `docs/api/` | Contrato inicial da api |
+
+---
 
 ## 7. Participantes
 
